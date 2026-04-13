@@ -1,5 +1,5 @@
 {
-	"name": "bonk-types",
+	"name": "bonk-game-types",
 	"version": "0.1.0",
 	"description": "Shared type definitions for bonk.io physics and game state",
 	"author": "Pixelmelt",
